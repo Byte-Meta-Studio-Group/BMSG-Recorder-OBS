@@ -1486,9 +1486,6 @@
            <height>0</height>
           </size>
          </property>
-         <property name="text">
-          <string>Basic.Main.StartStreaming</string>
-         </property>
          <property name="checkable">
           <bool>true</bool>
          </property>
